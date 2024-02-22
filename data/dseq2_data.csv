@@ -1,0 +1,46 @@
+﻿Sample Name,Run,gender,infection,Time,tissue
+GSM2545336,SRR5364315,female,Influenza A,Day 8,Cerebellum
+GSM2545337,SRR5364316,female,Non-Infected,Day 0,Cerebellum
+GSM2545338,SRR5364317,female,Non-Infected,Day 0,Cerebellum
+GSM2545339,SRR5364318,female,Influenza A,Day 4,Cerebellum
+GSM2545340,SRR5364319,male,Influenza A,Day 4,Cerebellum
+GSM2545341,SRR5364320,male,Influenza A,Day 8,Cerebellum
+GSM2545342,SRR5364321,female,Influenza A,Day 8,Cerebellum
+GSM2545343,SRR5364322,male,Non-Infected,Day 0,Cerebellum
+GSM2545344,SRR5364323,female,Influenza A,Day 4,Cerebellum
+GSM2545345,SRR5364324,male,Influenza A,Day 4,Cerebellum
+GSM2545346,SRR5364325,male,Influenza A,Day 8,Cerebellum
+GSM2545347,SRR5364326,male,Influenza A,Day 8,Cerebellum
+GSM2545348,SRR5364327,female,Non-Infected,Day 0,Cerebellum
+GSM2545349,SRR5364328,male,Non-Infected,Day 0,Cerebellum
+GSM2545350,SRR5364329,male,Influenza A,Day 4,Cerebellum
+GSM2545351,SRR5364330,female,Influenza A,Day 8,Cerebellum
+GSM2545352,SRR5364331,female,Influenza A,Day 4,Cerebellum
+GSM2545353,SRR5364332,female,Non-Infected,Day 0,Cerebellum
+GSM2545354,SRR5364333,male,Non-Infected,Day 0,Cerebellum
+GSM2545355,SRR5364334,male,Influenza A,Day 4,Spinal cord
+GSM2545356,SRR5364335,male,Non-Infected,Day 0,Spinal cord
+GSM2545357,SRR5364336,male,Non-Infected,Day 0,Spinal cord
+GSM2545358,SRR5364337,female,Non-Infected,Day 0,Spinal cord
+GSM2545359,SRR5364338,female,Influenza A,Day 8,Spinal cord
+GSM2545360,SRR5364339,male,Influenza A,Day 8,Spinal cord
+GSM2545361,SRR5364340,male,Non-Infected,Day 0,Spinal cord
+GSM2545362,SRR5364341,female,Influenza A,Day 4,Cerebellum
+GSM2545363,SRR5364342,male,Influenza A,Day 4,Cerebellum
+GSM2545364,SRR5364343,female,Non-Infected,Day 0,Spinal cord
+GSM2545365,SRR5364344,female,Non-Infected,Day 0,Spinal cord
+GSM2545366,SRR5364345,female,Non-Infected,Day 0,Spinal cord
+GSM2545367,SRR5364346,male,Non-Infected,Day 0,Spinal cord
+GSM2545368,SRR5364347,male,Influenza A,Day 4,Spinal cord
+GSM2545369,SRR5364348,male,Influenza A,Day 4,Spinal cord
+GSM2545370,SRR5364349,female,Influenza A,Day 8,Spinal cord
+GSM2545371,SRR5364350,female,Influenza A,Day 4,Spinal cord
+GSM2545372,SRR5364351,male,Influenza A,Day 8,Spinal cord
+GSM2545373,SRR5364352,male,Influenza A,Day 4,Spinal cord
+GSM2545374,SRR5364353,female,Influenza A,Day 8,Spinal cord
+GSM2545375,SRR5364354,female,Influenza A,Day 4,Spinal cord
+GSM2545376,SRR5364355,female,Influenza A,Day 4,Spinal cord
+GSM2545377,SRR5364356,female,Influenza A,Day 4,Spinal cord
+GSM2545378,SRR5364357,male,Influenza A,Day 8,Spinal cord
+GSM2545379,SRR5364358,male,Influenza A,Day 8,Spinal cord
+GSM2545380,SRR5364359,female,Influenza A,Day 8,Cerebellum
